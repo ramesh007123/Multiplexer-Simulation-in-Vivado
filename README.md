@@ -87,7 +87,9 @@ endmodule
 ```
 ## Simulated Output Gate Level Modelling
 
-_______ Here Paste the Simulated output  ___________
+![WhatsApp Image 2025-03-03 at 16 32 55_f5fe7f10](https://github.com/user-attachments/assets/e52a7c29-2b27-4043-b532-1110587db264)
+
+_______   ___________
 
 ### 4:1 MUX Data Flow Implementation
 ```verilog
@@ -108,7 +110,9 @@ endmodule
 ```
 ## Simulated Output Data Flow Modelling
 
-_______ Here Paste the Simulated output  ___________
+![WhatsApp Image 2025-03-03 at 16 32 55_f5fe7f10](https://github.com/user-attachments/assets/e6404e2e-856c-45bd-9d19-bd15301c063b)
+
+_______  ___________
 
 ### 4:1 MUX Behavioral Implementation
 ```verilog
@@ -134,7 +138,9 @@ endmodule
 ```
 ## Simulated Output Behavioral Modelling
 
-_______ Here Paste the Simulated output  ___________
+![WhatsApp Image 2025-03-03 at 16 32 55_f5fe7f10](https://github.com/user-attachments/assets/ed7edc31-3c0a-4155-bd36-c12bea8fc972)
+
+_______   ___________
 
 
 ### 4:1 MUX Structural Implementation
@@ -171,7 +177,9 @@ endmodule
 ```
 ## Simulated Output Structural Modelling
 
-_______ Here Paste the Simulated output  ___________
+![WhatsApp Image 2025-03-03 at 16 32 55_f5fe7f10](https://github.com/user-attachments/assets/1f77fa0d-b983-4aed-b920-b8d284c9b584)
+
+_______   ___________
 
 ### Testbench Implementation
 ```verilog
@@ -203,6 +211,8 @@ module mux4_to_1_tb;
 endmodule
 ```
 ### SAMPLE OUTPUT
+![WhatsApp Image 2025-03-03 at 16 32 55_f5fe7f10](https://github.com/user-attachments/assets/1be6d3c9-aea9-4c58-b1f5-d5ec861256d2)
+
 ```verilog
 Time=0 | S1=0 S0=0 | Y_gate=0 | Y_dataflow=0 | Y_behavioral=0 | Y_structural=0
 Time=10 | S1=0 S0=1 | Y_gate=0 | Y_dataflow=0 | Y_behavioral=0 | Y_structural=0
